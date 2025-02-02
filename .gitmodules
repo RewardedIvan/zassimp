@@ -1,0 +1,4 @@
+[submodule "assimp-mdb"]
+	path = assimp-mdb
+	url = https://github.com/assimp/assimp-mdb
+	branch = master
